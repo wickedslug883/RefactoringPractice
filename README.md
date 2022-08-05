@@ -14,7 +14,7 @@ I really got to dive into thinking simple and organizing with notes to help bett
 
  Current Version: https://github.com/wickedslug883
 
- ## License
+## License
 
  MIT License
 
